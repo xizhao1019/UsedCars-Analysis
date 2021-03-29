@@ -1,2 +1,2 @@
 # Used Cars Analysis
-Used Cars Analysis is a machine learning project in Python, where descriptive analysis and price prediction are both performed in different algorithms.  
+This study has exploited correlation analysis and machine learning-based approaches to identify relevant attributes in the used cars dataset which has a significant impact on predicting a used car's price.
